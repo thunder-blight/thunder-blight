@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: jaytradsharma@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Cats see humans as bigger hairless cats, they are unable to distinguish between species which is why many cats attempt to boss their owners around as they assume their human is a little kitten who doesn't know how to hunt or care for themselves.
+- ⚡ Fun fact: Cats are unable to distinguish between species, which causes them to consider their owners as larger, weirder cats that are able to walk on two legs. The inability to distinguish between species is why many cats adopt behaviours from other animals when growing up as well as why some cats attempt to boss their owners. They latter is done due to cats thinking of their owners as young kittens who are unable to hunt for themselves and so constantly try to teach them.
