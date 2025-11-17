@@ -1,6 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on a project that can help narrow down the possible causes of neurological issues
+- 🔭 I’m currently working on a project that can help narrow down the possible causes of neurological issues based on provided symptoms
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: jaytradsharma@gmail.com
 - 😄 Pronouns: he/him
